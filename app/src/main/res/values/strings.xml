@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="speach">Speach</string>
+    <string name="input_text">Input Text</string>
+</resources>
